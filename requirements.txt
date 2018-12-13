@@ -5,7 +5,8 @@
 
 # Neural net and related libraries.
 evdev==0.7.0
-git+git://github.com/lthiery/SPI-Py.git#egg=spi-py
+#git+git://github.com/lthiery/SPI-Py.git#egg=spi-py
+git+https://github.com/lthiery/SPI-Py.git
 youtube-dl
 serial
 
